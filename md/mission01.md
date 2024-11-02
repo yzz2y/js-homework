@@ -7,12 +7,7 @@
 ## 목차
 
 1. **[getValueAtObject 함수](#getvalueatobject)**
-  - 코드 설명
-  - 결과 화면
-2. **[getNumberAtArray 함수](#getnumberatarray)**
-  - 코드 설명
-  - 결과 화면
-3. **[Comment](#Comment)**
+1. **[getNumberAtArray 함수](#getnumberatarray)**
 
 <br />
 
@@ -46,7 +41,7 @@ function getValueAtObject(obj, key) {
 
   - `obj[key]`: `obj` 객체에서 **변수** `key`에 담긴 값을 이름으로 가지는 키에 해당하는 값
 
-    => 대괄호 표기법(`[]`)은 대괄호 안의 **변수**의 값에 따라 **동적**으로 키 값을 찾는다!
+    => 대괄호 표기법(`[]`)은 대괄호 안의 **변수**의 값에 따라 **동적**으로 키를 찾는다!
 
 
 - `console.error()`: 존재하지 않을 경우 에러 메세지를 띄우기 위한 메서드
