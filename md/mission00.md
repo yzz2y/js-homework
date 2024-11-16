@@ -1,6 +1,6 @@
 # Mission01
 
-[**과제 바로가기 링크 (console)**](https://yzz2y.github.io/js-homework/mission01/mission01.html)
+[**과제 바로가기 링크 (console)**](https://yzz2y.github.io/js-homework/mission00/mission00.html)
 
 <br />
 
@@ -49,7 +49,7 @@ function getValueAtObject(obj, key) {
 
 ### 결과 화면
 
-<img width="400" src="./images/mission01-result1.jpg">
+<img width="400" src="./images/mission00-result1.jpg">
 
 
 <br />
@@ -85,7 +85,7 @@ function getNumberAtArray(arr, index) {
 
 ### 결과 화면
 
-<img width="400" src="./images/mission01-result2.jpg">
+<img width="400" src="./images/mission00-result2.jpg">
 
 
 <br />
