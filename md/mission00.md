@@ -1,4 +1,4 @@
-# Mission01
+# Mission00
 
 [**과제 바로가기 링크 (console)**](https://yzz2y.github.io/js-homework/mission00/mission00.html)
 
